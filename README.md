@@ -2,9 +2,10 @@
 
 Next.js template with secure headers, rate limiting, CSRF protection and auth set up correctly.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Status: v0.1.0](https://img.shields.io/badge/status-v0.1.0-green)
 [![CI](https://github.com/calliarc/nextjs-security-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/calliarc/nextjs-security-starter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/calliarc/nextjs-security-starter?include_prereleases&sort=semver)](https://github.com/calliarc/nextjs-security-starter/releases)
+[![Built by CalliArc](https://img.shields.io/badge/built%20by-CalliArc-0a66c2)](https://www.calliarc.com/)
 
 > **Status:** working v0.1.0. The template builds, the tests pass, and every feature below is in place. Feedback and issues are welcome.
 
@@ -194,6 +195,10 @@ Have an idea? [Open an issue](https://github.com/calliarc/nextjs-security-starte
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
