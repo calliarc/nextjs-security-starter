@@ -27,3 +27,6 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 *.swp
+
+# Test / tooling output
+.vitest/
